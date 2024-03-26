@@ -1,3 +1,4 @@
+using exercises;
 using System.Drawing.Text;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
@@ -15,7 +16,7 @@ namespace sortAndSearchApp
 
         }
 
-        private List<int> array = new List<int>();
+        private List<int> array = [];
 
         private void BtnInsert_click(object sender, EventArgs e)
         {
@@ -29,7 +30,6 @@ namespace sortAndSearchApp
             {
                 label1.Text = "Conversion failed. Correct your input";
             }
-            Console.WriteLine(number);
             inputNumbers.Clear();
         }
 
@@ -51,16 +51,16 @@ namespace sortAndSearchApp
 
         private void BTN_Next_Click(object sender, EventArgs e)
         {
-            nameSort nameSort = new nameSort();
+            nameSort nameSort = new();
             Hide();
             nameSort.Show();
         }
 
         private void BTN_Prev_Click(object sender, EventArgs e)
         {
-            nameSort nameSort = new nameSort();
+            EscapeTheMatrix escapeTheMatrix = new();
             Hide();
-            nameSort.Show();
+            escapeTheMatrix.Show();
         }
 
     }

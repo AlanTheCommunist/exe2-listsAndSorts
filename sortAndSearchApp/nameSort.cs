@@ -1,4 +1,5 @@
-﻿using System;
+﻿using exercises;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -38,9 +39,9 @@ namespace sortAndSearchApp
 
         private void BTN_Next_Click(object sender, EventArgs e)
         {
-            SortandShow sortandShow = new SortandShow();
+            BeforeSortAndAfter beforeSortAndAfter = new BeforeSortAndAfter();
             Hide();
-            sortandShow.Show();
+            beforeSortAndAfter.Show();
         }
 
         private void BTN_Prev_Click(object sender, EventArgs e)
