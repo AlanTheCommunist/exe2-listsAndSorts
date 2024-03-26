@@ -1,0 +1,16 @@
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\bin\Debug\net8.0-windows\sortAndSearchApp.exe
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\bin\Debug\net8.0-windows\sortAndSearchApp.deps.json
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\bin\Debug\net8.0-windows\sortAndSearchApp.runtimeconfig.json
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\bin\Debug\net8.0-windows\sortAndSearchApp.dll
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\bin\Debug\net8.0-windows\sortAndSearchApp.pdb
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\sortAndSearchApp.SortandSearch.resources
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\sortAndSearchApp.csproj.GenerateResource.cache
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\sortAndSearchApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\sortAndSearchApp.AssemblyInfoInputs.cache
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\sortAndSearchApp.AssemblyInfo.cs
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\sortAndSearchApp.csproj.CoreCompileInputs.cache
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\sortAndSearchApp.dll
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\refint\sortAndSearchApp.dll
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\sortAndSearchApp.pdb
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\sortAndSearchApp.genruntimeconfig.cache
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\ref\sortAndSearchApp.dll

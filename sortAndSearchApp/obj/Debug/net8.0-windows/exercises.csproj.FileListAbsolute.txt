@@ -1,0 +1,17 @@
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\bin\Debug\net8.0-windows\exercises.exe
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\bin\Debug\net8.0-windows\exercises.deps.json
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\bin\Debug\net8.0-windows\exercises.runtimeconfig.json
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\bin\Debug\net8.0-windows\exercises.dll
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\bin\Debug\net8.0-windows\exercises.pdb
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\sortAndSearchApp.nameSort.resources
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\sortAndSearchApp.SortandShow.resources
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\exercises.csproj.GenerateResource.cache
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\exercises.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\exercises.AssemblyInfoInputs.cache
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\exercises.AssemblyInfo.cs
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\exercises.csproj.CoreCompileInputs.cache
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\exercises.dll
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\refint\exercises.dll
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\exercises.pdb
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\exercises.genruntimeconfig.cache
+E:\Studying\FATEC\Programming\C#\SortAndSearch\sortAndSearchApp\sortAndSearchApp\obj\Debug\net8.0-windows\ref\exercises.dll
